@@ -1,0 +1,39 @@
+{
+    "Items": [
+        {
+            "GameId": "1",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.high.school.boy&referrer=utm_source%3Dhorsegame%26anid%3Dadmob",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/schoollife.jpg"
+        },
+        {
+            "GameId": "2",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.world.sports.events&referrer=utm_source%3Dhorsegame%26anid%3Dadmob",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/worldevent.jpg"
+        }
+ {
+            "GameId": "3",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.wild.panda.family.simulator&referrer=utm_source%3Dhorsegame",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/panda.jpg"
+        }
+{
+            "GameId": "4",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.dolphin.transport.passengers.beach.taxi&referrer=utm_source%3Dhorsegame",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/dolphin.jpg"
+        }
+{
+            "GameId": "5",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.furious.rat.family.sim&referrer=utm_source%3Dhorsegame",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/mouse.jpg"
+        }
+    ]
+}
