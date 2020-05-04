@@ -174,7 +174,7 @@
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
             "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
             "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/New-House-Construction-Simulator.jpg"
-        }.
+        },
          {
             "GameId": "26",
             "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.step.dad&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
