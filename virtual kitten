@@ -1,0 +1,153 @@
+{
+    "Items": [
+     {
+            "GameId": "1",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.world.sports.events&referrer=utm_source%3Dhorsegame%26anid%3Dadmob",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/worldevent.jpg"
+        },
+{
+            "GameId": "2",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.dolphin.transport.passengers.beach.taxi&referrer=utm_source%3Dhorsegame",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/dolphin.jpg"
+        },
+        {
+            "GameId": "3",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.camper.van.holiday.family&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Camper-Van-Holiday-Adventure.jpg"
+        },
+ 
+{
+            "GameId": "4",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.cart.ambulance.village.hospital&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Cart-Ambulance-Village-Hospital.jpg"
+        },
+{
+            "GameId": "5",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.year.vacations.winter&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Christmas-to-New-Year-Winter-Vacations.jpg"
+        },
+        
+        {
+            "GameId": "6",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.christmas.shopping.fun&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Easter-Shopping-Fun.jpg"
+        },
+{
+            "GameId": "7",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.city.ambulance.hospital&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Emergency-City-Hospital-Ambulance-Rescue.jpg"
+        },
+        {
+            "GameId": "8",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.maths.game.basics.learning&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Math-Game-Kids-Education-And-Learning-In-School.jpg"
+        },
+ {
+            "GameId": "9",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.sports.prisoners.police&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Jail-Sports-Events-Prisoner-vs-Police.jpg"
+        },
+        {
+            "GameId": "10",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.pizza.delivery.jet.ski.fun&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Pizza-Delivery-Jet-Ski-Fun.jpg"
+        },
+ {
+            "GameId": "11",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.couple.lovestory&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Newlyweds-Story-of-Love-Couple.jpg"
+        },
+{
+            "GameId": "12",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.farmer.life.multi&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/New-Virtual-Farmer-Farming-Life-Simulator.jpg"
+        },
+{
+            "GameId": "13",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.house.construction.simulator&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/New-House-Construction-Simulator.jpg"
+        },
+ {
+            "GameId": "14",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.school.hilly.picnic&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/School-Kids-Hilly-Picnic-Adventure.jpg"
+        },
+{
+            "GameId": "15",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.underwater.train.simulator&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Pro-Train-Underwater-Adventure-Underwater-Games.jpg"
+        },
+        {
+            "GameId": "16",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.school.intelligent&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Virtual-School-Intelligent-Teacher.jpg"
+        },
+ {
+            "GameId": "17",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.virtual.manager.hotel&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Virtual-Manager-Hotel-Star.jpg"
+        },
+{
+            "GameId": "18",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.virtual.lawyer.mom&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Virtual-Lawyer-Mom-Family-Adventure.jpg"
+        },
+{
+            "GameId": "19",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.pet.cat.kitten.family&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Virtual-Kitten-Family-Pet-Cat-Adventure.jpg"
+        },
+        {
+            "GameId": "20",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.barber.hair.saloon&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/Virtual-Barber-Girl-Hair-Saloon.jpg"
+        },
+ {
+            "GameId": "21",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.trillion.dog.trainning.camp&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/trillion/master/US-Army-Dog-Training-Camp.jpg"
+        }
+    ]
+}
